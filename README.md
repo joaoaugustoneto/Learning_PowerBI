@@ -23,17 +23,17 @@ O repositório mantém uma organização direta e limpa na raiz:
 
 ---
 
-## 🛠️ Competências Técnicas Desenvolvidas
+## Competências Técnicas Desenvolvidas
 
 Nos projetos contidos na pasta `treinos/`, aplico as melhores práticas do mercado divididas nos pilares essenciais do Power BI:
 
-## 🚀 Projeto em Destaque nos Treinos
+## Projeto em Destaque nos Treinos
 
 ### **Dashboard de População e Extensão Territorial do Brasil**
 
 Veja meus estudos dentro da pasta `treinos/`, focado na análise demográfica e geográfica dos estados brasileiros.
 
-## 💻 Como Visualizar e Interagir com os Projetos
+## Como Visualizar e Interagir com os Projetos
 
 Para abrir, analisar os relacionamentos e testar as fórmulas DAX dos arquivos contidos na pasta `treinos/`:
 
@@ -43,7 +43,7 @@ Para abrir, analisar os relacionamentos e testar as fórmulas DAX dos arquivos c
 
 ---
 
-## 📨 Vamos nos conectar?
+## Vamos nos conectar?
 
 Estou constantemente aprimorando minhas habilidades analíticas e de design. Sinta-se à vontade para explorar os arquivos, sugerir melhorias ou entrar em contato para trocarmos ideias sobre BI e dados!
 
@@ -52,4 +52,4 @@ Estou constantemente aprimorando minhas habilidades analíticas e de design. Sin
 
 ---
 
-*Documentado com dedicação profissional para registro de evolução de carreira em BI. 🚀*
+*Documentado com dedicação profissional para registro de evolução de carreira em BI. *
